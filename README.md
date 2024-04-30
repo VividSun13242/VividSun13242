@@ -2,7 +2,7 @@
 
 - CSS expert
 Many people consider CSS difficult.
-<img align="right" alt="Coding" width="500" src="https://github.com/user-images.githubusercontent.com/174753363-aa63871c-97a0-456f-a24c-0c8c1b834602.gif">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/174753363-aa63871c-97a0-456f-a24c-0c8c1b834602.gif">
 <!--
 **VividSun-V/VividSun-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
