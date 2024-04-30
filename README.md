@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+- CSS expert
+Many people consider CSS difficult.
 ![Uploading 174753363-aa63871c-97a0-456f-a24c-0c8c1b834602.gif…]()
 
 <!--
