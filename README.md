@@ -1,8 +1,12 @@
   Hi there 👋
 
-- CSS expert
-Many people consider CSS difficult.
+- `CSS` expert
+Many people consider `CSS` difficult.
 <img align="right" alt="Coding" width="500" src="https://github.com/VividSun-V/VividSun-V/assets/164004558/8181e6c1-0351-4f76-95dd-cd831b2c20f6.gif">
+We think everyone building web apps/sites should learn `CSS`.
+However we agree that it can feel frustrating and often overwhelming.
+Many software engineers/developers feel they already have enough to learn with the rest of their chosen "stack", so investing the time to perfect the interface design & layout feels like too much. We get it!
+
 <!--
 **VividSun-V/VividSun-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![174753363-aa63871c-97a0-456f-a24c-0c8c1b834602](https://github.com/VividSun-V/VividSun-V/assets/164004558/8181e6c1-0351-4f76-95dd-cd831b2c20f6)
+
