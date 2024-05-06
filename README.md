@@ -1,4 +1,4 @@
-![image](https://github.com/VividSun-V/VividSun-V/assets/164004558/7728b984-5429-4e85-915e-169a300d76a0)  Hi there 👋
+Hi there 👋
 
 - React/Next.js Developer
 
